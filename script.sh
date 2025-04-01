@@ -1,0 +1,2 @@
+# echo "Bienvenue dans le shell de votre docker.\nLancez la commande suivante pour vous connecter au serveur :\n\n./client connect votre-nom-d-utilisateur [votre port]\n"
+./client connect $USER_NAME $PORT
