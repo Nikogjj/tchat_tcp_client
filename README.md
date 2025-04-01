@@ -19,8 +19,8 @@ Pour pouvoir utiliser ce programme vous pouvez procéder de deux manières diff�
   
   git clone https://github.com/Nikogjj/tchat_tcp_client.git
 
-Et ensuite :
+  Et ensuite :
 
   ./client connect (votre pseudo) [votre port]
 
-Le programme est déjà configuer pour se connecter au bon serveur vous n'avez rien à faire si ce n'est entrer la bonne commande de votre terminal.
+  Le programme est déjà configuer pour se connecter au bon serveur vous n'avez rien à faire si ce n'est entrer la bonne commande de votre terminal.
