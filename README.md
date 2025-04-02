@@ -16,11 +16,11 @@ Pour pouvoir utiliser ce programme vous pouvez procéder de deux manières diff�
 
 - Le lancer via Docker avec la commande suivante : docker run -it -e USER_NAME=(votre user name) -e PORT=(votre port) niko833/tchat_tcp_client
 - Si vous êtes sur Linux le lancer directement en clonant ce repo avec la commande suivante :
-  
+```bash
   git clone https://github.com/Nikogjj/tchat_tcp_client.git
-
+```
   Et ensuite :
-
+``` bash
   ./client connect (votre pseudo) [votre port]
-
+```
   Le programme est déjà configuer pour se connecter au bon serveur vous n'avez rien à faire si ce n'est entrer la bonne commande de votre terminal.
