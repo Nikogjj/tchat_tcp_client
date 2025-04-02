@@ -14,7 +14,10 @@ Ce projet implémente un système de messagerie instantanée simple utilisant le
 
 Pour pouvoir utiliser ce programme vous pouvez procéder de deux manières différentes :
 
-- Le lancer via Docker avec la commande suivante : docker run -it -e USER_NAME=(votre user name) -e PORT=(votre port) niko833/tchat_tcp_client
+- Le lancer via Docker avec la commande suivante :
+```bash
+  docker run -it -e USER_NAME=(votre user name) -e PORT=(votre port) niko833/tchat_tcp_client
+```
 - Si vous êtes sur Linux le lancer directement en clonant ce repo avec la commande suivante :
 ```bash
   git clone https://github.com/Nikogjj/tchat_tcp_client.git
